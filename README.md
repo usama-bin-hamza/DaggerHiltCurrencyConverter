@@ -4,6 +4,7 @@ Hilt Clean Architecture | Kotlin | MVVM | Coroutines | Retrofit | Binding | Flow
 This project was made with the objective of creating a base structure for new apps, using tools and components supported by Google and by most of the Android development community.
 
 Clean Architecture
+
 Clean architecture promotes separation of concerns, making the code loosely coupled. This results in a more testable and flexible code. 
 
 MVVM
